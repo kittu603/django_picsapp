@@ -1,0 +1,12 @@
+body {
+    background: url("download.jpg");
+    background-repeat: no-repeat;
+    
+}
+
+.list {
+    color: black;
+}
+.navbar navbar-inverse{
+    color: black;
+}
